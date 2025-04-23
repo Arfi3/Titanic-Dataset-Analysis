@@ -53,4 +53,4 @@ Big thanks to my mentor, **Ka Kurnia Anwar Ra'if**, and **dibimbing.id** for the
 
 ## 🚀 Let’s Connect!
 
-If you’re also passionate about data science, feel free to connect or reach out to me on [LinkedIn](https://www.linkedin.com/in/arfi-nadhifa-hananti/)!
+If you’re also passionate about data science, feel free to connect or reach out to me on [LinkedIn](www.linkedin.com/in/arfinadhifahananti)!
