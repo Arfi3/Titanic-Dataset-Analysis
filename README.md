@@ -19,8 +19,8 @@ The main goals of this EDA project are:
 
 ## 🗂 Dataset
 
-The dataset used in this project is the Titanic dataset, which is publicly available through .
-
+The dataset used in this project is available in this repository: 
+[🔗 titanic.xlsx](https://github.com/Arfi3/Titanic-Dataset-Analysis/blob/main/titanic.xlsx)
 ---
 
 ## 🛠 Tools & Libraries
@@ -42,8 +42,6 @@ Some of the insights gained from the analysis include:
 - Females had a much higher survival rate, likely due to the "women and children first" evacuation policy.
 - Most passengers were adults, which matches the typical profile of Titanic travelers at the time.
 - Males had a lower chance of survival, which suggests unequal access to rescue efforts.
-
-```
 
 ---
 
